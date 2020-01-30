@@ -6,4 +6,4 @@ cautious-planner is a day planner that shows every business hour(9am through 5pm
 
 
 
-![alt text](screenshot/screenshot1.png)
+![alt text](screenshot1.png)
